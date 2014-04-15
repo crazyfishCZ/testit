@@ -1,0 +1,3 @@
+Registrace
+-------------------------------------------------------------
+výpis chyb při špatném formátu emailu atd (např zobrazovat v jakém musí být formátu, co musí mít, a kažád položka zmizí když bude splněna)
